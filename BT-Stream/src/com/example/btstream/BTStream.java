@@ -1,4 +1,5 @@
 package com.example.btstream;
+<<<<<<< HEAD
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -20,5 +21,11 @@ public class BTStream {
             System.out.println("file does not exist");
         }
 
+=======
+
+public class BTStream {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+>>>>>>> main
     }
 }
